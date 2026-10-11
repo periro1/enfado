@@ -1,0 +1,14 @@
+{
+  "name": "discurso-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pantalla de discurso con panel de control en tiempo real",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
